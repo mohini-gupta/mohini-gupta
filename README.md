@@ -17,8 +17,6 @@ Here's what I learn everyday: (What a better way to know somebody than this, rig
   
 <br />
 <br />
-<!--
-**mohini-gupta/mohini-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### About Me 
 I am from India currently pursuing Master of Science (Laurea Magistrale) in Computer Science at Politecnico Di Milano, Italy. I am an avid reader and a passionate coder. 
