@@ -1,7 +1,7 @@
 ### Hi there, I am Mohini. 👋
 
 <a href="https://www.linkedin.com/in/mohini-gupta485/">
-  <img align="left" alt="Mohini Gupta | LinkedIn" width="50px" src="https://github.com/mohini-gupta/mohini-gupta/blob/master/assets/linkedIN.png" />
+  <img align="left" alt="Mohini Gupta | LinkedIn" width="50px" src="https://github.com/mohini-gupta/mohini-gupta/blob/master/assets/linkedIn.png" />
 </a>
 
 <a href="mailto:mohini.gupta@mail.polimi.it">
