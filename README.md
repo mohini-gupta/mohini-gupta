@@ -19,7 +19,7 @@ I am currently pursuing Master of Science (Laurea Magistrale) in Computer Scienc
 
 I always aim to acquire and develop new knowledge. And being a Polimi student have opened up (various) great opportunity for me. I work well with a team, and I have worked on many projects which you can find in my [repositories](https://github.com/mohini-gupta?tab=repositories).
 
-<p style="color:blue;"> INSERT INTO</p> atPresent(🔭 currentlyWorkingOn, 🌱 currentlyLearning, :book: currentlyReading, 👯 lookingToCollaborateOn)
-<p style="color:blue;"> VALUES</p> (*[Topic-modeling](https://github.com/mohini-gupta/topic-modeling-wikivoyage)*, *the course "Machine learning" in Polimi*, *Sapiens by Yuval Noah Harari*,  *Topic-Modeling*);
+<p style="color:blue"> INSERT INTO</p> atPresent(🔭 currentlyWorkingOn, 🌱 currentlyLearning, :book: currentlyReading, 👯 lookingToCollaborateOn)
+<p style="color:blue"> VALUES</p> (*[Topic-modeling](https://github.com/mohini-gupta/topic-modeling-wikivoyage)*, *the course "Machine learning" in Polimi*, *Sapiens by Yuval Noah Harari*,  *Topic-Modeling*);
 
 
