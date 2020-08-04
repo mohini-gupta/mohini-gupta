@@ -19,4 +19,3 @@ I always aim to acquire and develop new knowledge. And being a Polimi student ha
 - 🔭 I’m currently working on *[Topic-modeling](https://github.com/mohini-gupta/topic-modeling-wikivoyage)*
 - 🌱 I’m currently learning *the course "Machine learning" in Polimi*
 - :book: I'm currently reading *Sapiens by Yuval Noah Harari*
-- 👯 I’m looking to collaborate on *Topic-Modeling*
