@@ -10,14 +10,6 @@
 
 <br />
 <br />
-<br />
-
-### All day, everyday
-Here's what I learn everyday: (What a better way to know somebody than this, right?)
-> **3rd August 2020**: Don't try too hard to get things right! 
-  
-<br />
-<br />
 
 ### About Me 
 I am from India currently pursuing Master of Science (Laurea Magistrale) in Computer Science at Politecnico Di Milano, Italy. I am an avid reader and a passionate coder. 
