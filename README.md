@@ -7,6 +7,9 @@
 <a href="mailto:mohini.gupta@mail.polimi.it">
   <img align="left" alt="Mohini Gupta | Outlook" width="20px" src="https://github.com/mohini-gupta/mohini-gupta/blob/master/assets/outlook.png" />
 </a>
+<a href="https://www.quora.com/profile/Mohini-Gupta-127">
+  <img align="left" alt="Mohini Gupta | Quora" width="20px" src="https://github.com/mohini-gupta/mohini-gupta/blob/master/assets/quora.png" />
+</a>
 
 <br />
 <br />
