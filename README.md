@@ -19,6 +19,6 @@ I am from India currently pursuing Master of Science (Laurea Magistrale) in Comp
 
 I always aim to acquire and develop new knowledge. And being a Polimi student have opened up (various) great opportunity for me. I work well with a team, and I have worked on many projects which you can find in my [repositories](https://github.com/mohini-gupta?tab=repositories).
 
-- 🔭 I’m currently working on *[Topic-modeling](https://github.com/mohini-gupta/topic-modeling-wikivoyage)*
-- 🌱 I’m currently learning *the course "Machine learning" in Polimi*
+- 🔭 I’m currently working on *my final year thesis: Data Processing of Mobile Sensor data*
+- 🌱 I’m currently learning *advanced level of Python*
 - :book: I'm currently reading *Becoming by Michelle Obama*
